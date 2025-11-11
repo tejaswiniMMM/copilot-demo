@@ -7,3 +7,9 @@ The dashboard gives insights into patient demographics, medical test results, an
 • Interactive charts  
 • Filtered views  
 • Exportable visual reports  
+
+## Usage (Generated using GitHub Copilot)
+
+1. Clone the repository:
+
+
